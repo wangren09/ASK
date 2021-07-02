@@ -22,7 +22,7 @@ If you use this code, please cite the following reference
 @article{wang2021ask,
   title={ASK: Adversarial Soft k-Nearest Neighbor Attack and Defense},
   author={Wang, Ren and Chen, Tianqi and Yao, Philip and Liu, Sijia and Rajapakse, Indika and Hero, Alfred},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv: 2106.14300},
   year={2021}
 }
 ```
