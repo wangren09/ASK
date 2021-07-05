@@ -12,7 +12,7 @@ ASK provides a novel Adversarial Soft kNN Attack, which has superior attack effi
 ASK also provides an Adversarial Soft kNN Defense that can improve the robustness of both kNN-based classifiers and DNNs.
 
 ### HOWTO
-Run run_attack.ipynb
+ask_attack.py and ask_train.py correspond to attack and defense respectively. Run run_attack.ipynb to test.
 
 
 ## Refer to this Repo.
