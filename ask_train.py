@@ -122,7 +122,7 @@ ref_advaug = not args.no_adv
 mixed = not args.no_mixing
 max_iter = args.max_iter
 eps = args.eps_ask/255
-step_size = args.step_size
+step_size = args.step_size/255
 c = args.beta
 n_ref = args.n_ref
 
